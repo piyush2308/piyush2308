@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @piyush2308
+- 👋 Hi, I’m Piyush
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on some good projects 
