@@ -2,8 +2,7 @@
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on some good projects 
-- 📫 https://www.linkedin.com/in/piyushgupta23/
-- https://www.instagram.com/piyushgupta2308
+- 📫 piyushgupta86048@gmail.com
  
  
 
