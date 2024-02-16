@@ -2,7 +2,7 @@
 - 👀 My projects are available at github.com/piyush2308
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on some good projects 
-- 📫 piyushgupta86048@gmail.com
+- 📫reach me at  piyushgupta86048@gmail.com
  
  
 
